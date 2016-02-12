@@ -10,7 +10,7 @@ body{
   font-family: 'Open Sans', Arial, Tahoma;
   font-weight: 400;
   color: #363636;
-  background: #334960;
+  background: #9fa8da;
 }
 blockquote {
   font-size: 1em;
@@ -31,7 +31,7 @@ blockquote {
   border-radius: 50%;
   overflow: hidden;
   padding: 5px;
-  background: #334960;
+  background: #1a237e;
   display: inline-block;
 }
 #photo img{
@@ -73,7 +73,7 @@ blockquote {
   margin-bottom: 25px;
 }
 .box h2{
-  color: #227c74;
+  color: #1a237e;
   font-size: 1.5em;
   font-weight: 700;
   text-transform: uppercase;
@@ -113,7 +113,7 @@ blockquote {
 }
 #awards .year,
 #education .year{
-  width: 10%;
+  width: 15%;
   background: #fff;
   padding: 10px;
   font-weight: 700;
@@ -247,9 +247,10 @@ blockquote {
   margin-right: 5px;
   margin-bottom: 5px;
   padding: 5px 10px;
-  background: #32475c;
+  background: #3f51b5;
   position: relative;
   font-size: .85em;
+  border-radius: 5px;
 }
 .skill-level {
   background-color: #227c74;
@@ -279,11 +280,11 @@ blockquote {
 }
 @media (min-width: 992px) {
   #education .description{
-    width: 87%;
+    width: 85%;
   }
 }
 @media (min-width: 1200px) {
   #education .description{
-    width: 90%;
+    width: 85%;
   }
 }
