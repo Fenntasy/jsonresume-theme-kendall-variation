@@ -10,15 +10,17 @@
   "license": "MIT",
   "dependencies": {
     "gravatar": "^1.0.6",
-    "lodash": "^2.4.1",
-    "mustache": "^0.8.2"
+    "lodash": "^4.17.11",
+    "mustache": "^3.0.1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Fenntasy/jsonresume-theme-kendall-variation.git"
   },
   "keywords": [
-    "json", "jsonresume", "theme"
+    "json",
+    "jsonresume",
+    "theme"
   ],
   "bugs": {
     "url": "https://github.com/linuxbozo/jsonresume-theme-kendall-variation/issues"
